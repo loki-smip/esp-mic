@@ -3,6 +3,7 @@
 Stream audio from an **INMP441 I2S microphone** over Wi-Fi using an **ESP8266**, then receive and transcribe it on your PC in real-time using Python.
 
 ---
+happy to help at any time (i do not respond fast i have school)
 
 ##  Key Features
 
