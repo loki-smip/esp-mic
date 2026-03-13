@@ -4,14 +4,14 @@ Stream audio from an **INMP441 I2S microphone** over Wi-Fi using an **ESP8266**,
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 📡 **UDP Audio Streaming** — Low-latency audio packets sent from ESP8266 to PC over your local network
-- 🔄 **Arduino OTA (Over-The-Air) Updates** — Flash new firmware to the ESP8266 wirelessly; no USB cable needed after first flash
-- ⚡ **160 MHz CPU Overclock** — The ESP8266 is set to run at 160 MHz (`system_update_cpu_freq(160)`) for smooth, uninterrupted audio capture and transmission
-- 🎚️ **Software Gain Boosting** — Python-side gain amplifier (`GAIN_FACTOR`) compensates for the INMP441's quiet output; clipping is prevented automatically
-- 🧠 **Speech-to-Text via Google** — Received audio is automatically transcribed using Google's Speech Recognition API
-- 🎤 **Mono 16-bit PCM, 16 kHz** — Clean audio format compatible with most speech recognition engines
+-  **UDP Audio Streaming** — Low-latency audio packets sent from ESP8266 to PC over your local network
+-  **Arduino OTA (Over-The-Air) Updates** — Flash new firmware to the ESP8266 wirelessly; no USB cable needed after first flash
+-  **160 MHz CPU Overclock** — The ESP8266 is set to run at 160 MHz (`system_update_cpu_freq(160)`) for smooth, uninterrupted audio capture and transmission
+-  **Software Gain Boosting** — Python-side gain amplifier (`GAIN_FACTOR`) compensates for the INMP441's quiet output; clipping is prevented automatically
+-  **Speech-to-Text via Google** — Received audio is automatically transcribed using Google's Speech Recognition API
+-  **Mono 16-bit PCM, 16 kHz** — Clean audio format compatible with most speech recognition engines
 
 ---
 
